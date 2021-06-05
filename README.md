@@ -1,1 +1,2 @@
-# -renciOtomasyonu
+# OgrenciOtomasyonu
+Java Swing GUI
